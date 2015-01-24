@@ -505,26 +505,18 @@
 	<true/>
 	<key>MaxVertically</key>
 	<false/>
-	<key>NSColorPanelMode</key>
-	<string>7</string>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Desktop</string>
+	<string>~/Desktop/Git</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
 	<string></string>
 	<key>NSScrollAnimationEnabled</key>
 	<false/>
-	<key>NSWindow Frame NSColorPanel</key>
-	<string>268 229 214 309 0 0 1280 778 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>356 272 924 485 0 0 1280 777 </string>
+	<string>269 110 924 485 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>704 326 570 451 0 0 1280 777 </string>
-	<key>NSWindow Frame iTerm Window 1</key>
-	<string>364 349 570 451 0 0 1280 800 </string>
-	<key>NSWindow Frame iTerm Window 2</key>
-	<string>173 27 570 451 0 0 1280 800 </string>
+	<string>712 338 585 451 0 0 1920 1057 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -694,7 +686,7 @@
 			<key>Background Image Is Tiled</key>
 			<false/>
 			<key>Background Image Location</key>
-			<string>/Users/Chell/Pictures/IMG_0024.jpg</string>
+			<string>/Users/Jack/Desktop/Git/Settings/Painted in Waterlogue.jpg</string>
 			<key>Blend</key>
 			<real>0.52256065607070923</real>
 			<key>Blink Allowed</key>
@@ -1299,7 +1291,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/Chell/Desktop</string>
+	<string>/Users/Jack/Desktop/Git/Settings</string>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -1315,7 +1307,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-01-24T18:46:43Z</date>
+	<date>2015-01-24T18:13:59Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1361,6 +1353,52 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.0.0.20141103</string>
+	<string>2.0</string>
+	<key>mad_DefaultHotKeysApplied</key>
+	<true/>
+	<key>mad_ToggleFloatingWindowKeyCode</key>
+	<integer>3</integer>
+	<key>mad_ToggleFloatingWindowModifiers</key>
+	<integer>4096</integer>
+	<key>mad_hkCenterWindowKeyCode</key>
+	<integer>8</integer>
+	<key>mad_hkCenterWindowModifiers</key>
+	<integer>6400</integer>
+	<key>mad_hkRestoreFrameKeyCode</key>
+	<integer>36</integer>
+	<key>mad_hkRestoreFrameModifiers</key>
+	<integer>6400</integer>
+	<key>mad_hkSaveFrameKeyCode</key>
+	<integer>1</integer>
+	<key>mad_hkSaveFrameModifiers</key>
+	<integer>6400</integer>
+	<key>mad_hkSettingsKeyCode</key>
+	<integer>43</integer>
+	<key>mad_hkSettingsModifiers</key>
+	<integer>6400</integer>
+	<key>mad_hkToggle12LeftKeyCode</key>
+	<integer>37</integer>
+	<key>mad_hkToggle12LeftModifiers</key>
+	<integer>6400</integer>
+	<key>mad_hkToggle12RightKeyCode</key>
+	<integer>15</integer>
+	<key>mad_hkToggle12RightModifiers</key>
+	<integer>6400</integer>
+	<key>mad_hkToggleDockandMenuKeyCode</key>
+	<integer>46</integer>
+	<key>mad_hkToggleDockandMenuModifiers</key>
+	<integer>6400</integer>
+	<key>mad_hkToggleFloatingWindowKeyCode</key>
+	<integer>3</integer>
+	<key>mad_hkToggleFloatingWindowModifiers</key>
+	<integer>4096</integer>
+	<key>mad_hkToggleMADFullscreenKeyCode</key>
+	<integer>3</integer>
+	<key>mad_hkToggleMADFullscreenModifiers</key>
+	<integer>6144</integer>
+	<key>mad_hkToggleOSXFullscreenKeyCode</key>
+	<integer>3</integer>
+	<key>mad_hkToggleOSXFullscreenModifiers</key>
+	<integer>2048</integer>
 </dict>
 </plist>
