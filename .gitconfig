@@ -1,0 +1,13 @@
+[alias]
+	st = status
+	br = branch
+	co = checkout
+[user]
+	name = Alex Aziz
+	email = alexhaziz@gmail.com
+[filter "media"]
+	required = true
+	clean = git media clean %f
+	smudge = git media smudge %f
+[push]
+	default = simple
